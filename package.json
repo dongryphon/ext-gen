@@ -17,6 +17,7 @@
   "author": "Sencha, Inc.",
   "license": "MIT",
   "devDependencies": {
+    "eslint": "^6.7.2",
     "lerna": "^3.16.4"
   },
   "repository": {
